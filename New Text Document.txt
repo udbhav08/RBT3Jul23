@@ -1,1 +1,15 @@
-Undo Changes in Git
+Undo/revert/reset Changes in Git
+
+1.undo uncommitted changes 
+git checkout --<Filename>
+git checkout -- .
+
+2)Undo Committed Changes
+git revert<last commit ID>
+git revert -n <CommitId>
+
+3) reset changes 
+ git reset 
+ modes--hard
+      --soft
+      --mixed
