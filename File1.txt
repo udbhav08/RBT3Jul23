@@ -10,5 +10,10 @@ we will seee the difference between them
 will cover git diff command.
 >>>>>>> parent of db1f9ec (wi3: file1 updated with undo revert and reset)
 
+<<<<<<< HEAD
 
 new changes addded for bug123
+=======
+bug fixes for 123...
+refixed the bug
+>>>>>>> bug123
