@@ -12,3 +12,4 @@ will cover git diff command.
 
 bug fixes for 123...
 refixed the bug
+added
