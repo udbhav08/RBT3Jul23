@@ -4,3 +4,4 @@ Session Day 2 details
 will cover git diff command.
 
 we will also cover undo,revert,reset on day 2.
+we will seee the difference between them 
