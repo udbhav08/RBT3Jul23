@@ -13,3 +13,6 @@ git revert -n <CommitId>
  modes--hard
       --soft
       --mixed
+
+functionabc()
+help to fix a bug in bug123
