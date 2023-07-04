@@ -1,7 +1,11 @@
 Welcome to Git Session
 session will be for 3 days.
 Session Day 2 details
+<<<<<<< HEAD
 will cover git diff command.
 
 we will also cover undo,revert,reset on day 2.
 we will seee the difference between them 
+=======
+will cover git diff command.
+>>>>>>> parent of db1f9ec (wi3: file1 updated with undo revert and reset)
