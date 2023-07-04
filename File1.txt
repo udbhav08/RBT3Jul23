@@ -16,4 +16,8 @@ new changes addded for bug123
 =======
 bug fixes for 123...
 refixed the bug
+<<<<<<< HEAD
+>>>>>>> bug123
+=======
+added
 >>>>>>> bug123
