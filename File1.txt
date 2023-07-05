@@ -24,3 +24,5 @@ added
 //addding a line to fix bug 456.
 session timings to 10:30 am to 1:30 pm
 //cr5 changes done is fixed
+
+new lin e work in stash
